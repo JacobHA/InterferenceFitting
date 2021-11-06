@@ -1,5 +1,10 @@
 # DiffractionFitting
-python class to analyze diffraction slit experimental data
+Python class to analyze diffraction slit experimental data.
+
+TODO:
+- add peak/min detection for calculating observed wavelengths automatically
+- add possible cutoff parameter: this is the far field diffraction limit after all
+- add more customizable plotting options, title, colors etc
 
 # Output
 After applying to the example file in this repository, we have the following outputs.
