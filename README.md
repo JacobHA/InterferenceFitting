@@ -1,4 +1,4 @@
-# DiffractionFitting
+# Interference Pattern Fitting for Slit Diffraction
 Python class to analyze diffraction slit experimental data.
 
 TODO:
